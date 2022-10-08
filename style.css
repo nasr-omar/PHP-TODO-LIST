@@ -1,0 +1,36 @@
+
+.task{
+  width: 50%;
+  /* background-color: red; */
+  margin: 8px;
+  padding: 10px;
+}
+
+.btn{
+  padding: -10px;
+}
+#task_div{
+  text-align: center;
+  margin-top: 10px;
+}
+body,html{
+  background-image: url('todo.jfif');
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+#action{
+  /* text-align: center;
+  margin-right: 15px; */
+  /* text-align: center; */
+  /* color: red; */
+
+}
+
+#sign{
+  text-align: center;
+  color: white;
+}
+
+#delete{
+  margin-right: 30px;
+}
